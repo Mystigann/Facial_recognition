@@ -1,2 +1,1 @@
-# Facial_recognition
-Read the following "readme" files.
+Donwload the whole zip and follow the steps in  'Read me.txt'
